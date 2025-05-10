@@ -1,7 +1,7 @@
 - 👋 Hi, We Are The Decodez Team.
 - 👀 We are a team that is interested in technology.
 - 📫 To communicate with us, you can contact us through the site ticket or Telegram.
-- Our Telegram ID: @HelpTeamz
+- Our Telegram ID: @iDev20
 - https://Panel.Decodez.net
 
 <!---
